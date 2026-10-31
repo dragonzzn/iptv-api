@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-30 00:40:12,https://php.jdshipin.com/TVOD/iptv.php$订阅源
+2026-10-31 23:41:38,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 
 📺央视频道,#genre#
 CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php$订阅源
@@ -11,6 +11,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 ☘️广东频道,#genre#
 
 ☘️湖南频道,#genre#
+长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8$订阅源
+长沙新闻,http://ls.qingting.fm/live/4877.m3u8$订阅源
 
 ☘️湖北频道,#genre#
 
